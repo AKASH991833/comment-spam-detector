@@ -1,5 +1,8 @@
 # Python/NLP version (scikit-learn)
 
+> Part of **[comment-spam-detector](https://github.com/AKASH991833/comment-spam-detector)** — live browser demo: https://akash991833.github.io/comment-spam-detector/ · screenshots in the repo-root `screenshots/` folder.
+
+
 The Pages demo runs a compact model fully in your browser. This folder is the
 proper training pipeline with a larger vocabulary and full holdout +
 cross-validation reporting.
